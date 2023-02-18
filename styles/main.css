@@ -1,0 +1,47 @@
+@import "details.css";
+@import url("https://fonts.googleapis.com/css?family=Comfortaa|Patua+One");
+@import url('https://fonts.googleapis.com/css2?family=Engagement&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+/*Typography
+--------------------------------------------------------------*/
+body,
+button,
+input,
+select,
+textarea {
+	color: #404040;
+	font-family: 'Oswald', sans-serif;
+	font-size: 15px;
+	line-height: 1.5;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Patua One", serif;
+  letter-spacing: 2px;
+}
+
+ul {
+    list-style-type: none;
+    padding-inline-start: 0.25rem;
+}
+
+#orderButton {
+    padding: 0.5rem;
+    background-color: black;
+    color: white;
+    font-size: 1rem;
+    border-radius: 25px;
+    font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Bebas Neue";
+  font-size: 27px;
+}
+
+body {
+  background: url("https://images.unsplash.com/photo-1584302179602-e4c3d3fd629d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
+  background-size: cover;
+}

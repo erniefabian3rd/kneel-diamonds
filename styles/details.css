@@ -1,0 +1,90 @@
+/* You need to create the rest of styles for the layout shown */
+
+.options {
+    flex-basis: 24%;
+    margin: 0 2rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    color: white;
+    background: rgba(50,50,50,.4);
+}
+
+.choices {
+    display: flex;
+    padding-top: 50px;
+    justify-content: center;
+    
+}
+
+.header {
+    font-family: "Bebas Neue";
+    font-size: 45px;
+    text-align: center;
+    color: white;
+    text-shadow: rgb(8, 8, 8) 1px 0 7px;
+    margin-top: -100px;
+}
+
+.logo {
+    width: 11%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    padding-top: 25px;
+    padding-right: 100px;
+}
+
+.jewelry_types {
+    display: flex;
+    justify-content: center;
+}
+
+.order_btn {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.final_selections {
+    padding-top: 25px;
+    color: black;
+}
+
+.customOrders {
+    padding-top: 25px;
+    color: black;
+}
+
+.order_result {
+    text-align: center;
+    color: black;
+}
+
+.radio_styles {
+    margin-left: 35%;
+    margin-right: 10px;
+}
+
+.radio_sizes {
+    margin-left: 35%;
+    margin-right: 10px;
+}
+
+.radio_metals {
+    margin-left: 30%;
+    margin-right: 10px;
+}
+
+.radio_type {
+    padding-top: -50px;
+}
+
+.types_header {
+    color: white;
+    text-shadow: rgb(8, 8, 8) 1px 0 7px;
+    margin-bottom: 0px;
+}
+
+.custom_header {
+    color: white;
+    text-shadow: rgb(8, 8, 8) 1px 0 7px;
+}
